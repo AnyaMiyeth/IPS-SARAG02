@@ -17,6 +17,8 @@ namespace Entidad
             IdentificacionPaciente = idPaciente;
             TipoAfiliacion = tipoAfiliacion;
             SalarioPaciente = salarioPaciente;
+
+
             ValorServicio = valorServicio;
 
         }
