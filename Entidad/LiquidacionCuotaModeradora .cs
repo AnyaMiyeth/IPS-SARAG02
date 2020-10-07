@@ -21,6 +21,7 @@ namespace Entidad
 
             ValorServicio = valorServicio;
 
+
         }
         public LiquidacionCuotaModeradora()
         {
